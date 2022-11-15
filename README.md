@@ -50,11 +50,22 @@ misma.
 
 Figura 1.1. Circuito Resistivo Mixto
 
+![cap thinkercad_page-0001](https://user-images.githubusercontent.com/116774235/201821466-d8544efb-ac29-4c57-805f-1f42a7979aaa.jpg)
 
 
 1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
 
+![procedimientos lab fce_page-0001](https://user-images.githubusercontent.com/116774235/201821588-5afb524d-4e2f-4b00-ae3e-8826321486bf.jpg)
 
+![procedimientos lab fce_page-0002](https://user-images.githubusercontent.com/116774235/201821591-81dd7aff-5e00-476f-b804-2315acb2f314.jpg)
+
+![procedimientos lab fce_page-0003](https://user-images.githubusercontent.com/116774235/201821596-c2d2b89f-c0d6-48aa-8feb-c4d74839b098.jpg)
+
+![procedimientos lab fce_page-0004](https://user-images.githubusercontent.com/116774235/201821598-79023a87-cbb9-4ccf-ba27-e664e47cf852.jpg)
+
+![procedimientos lab fce_page-0005](https://user-images.githubusercontent.com/116774235/201821618-814cdaee-ad3b-434f-a7a0-8bac0abf0502.jpg)
+
+![procedimientos lab fce_page-0006](https://user-images.githubusercontent.com/116774235/201821625-c2f1fc8d-03e5-4b82-a5a7-4391da285e3d.jpg)
 
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
