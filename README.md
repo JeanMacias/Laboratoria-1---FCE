@@ -97,6 +97,7 @@ Al obtener los valores respectivos mediante las fórmulas, obtenemos medidas que
 
 1.6 VIDEO
 
+https://drive.google.com/file/d/1EgNVHEsSa6F16NAho5gie-mLc8jTqT7S/view?usp=sharing
 
 1.7 CONCLUSIONES
 
