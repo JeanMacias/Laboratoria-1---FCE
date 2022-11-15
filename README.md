@@ -50,36 +50,22 @@ misma.
 
 Figura 1.1. Circuito Resistivo Mixto
 
-![imagenes lab 1 fce_page-0003](https://user-images.githubusercontent.com/116774235/201507403-5ddf0e59-1697-46e6-b3e1-9ee8550f8d24.jpg)
+
 
 1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
 
 
-![imagenes lab 1 fce_page-0004](https://user-images.githubusercontent.com/116774235/201507449-4817320f-4512-434b-9422-4260d906c151.jpg)
 
-![imagenes lab 1 fce_page-0005](https://user-images.githubusercontent.com/116774235/201507451-96831880-eb35-43c0-bfa2-f0d1886c75ad.jpg)
-
-![imagenes lab 1 fce_page-0006](https://user-images.githubusercontent.com/116774235/201507454-347f8887-d00d-44ca-a203-3a8d57865739.jpg)
-
-![imagenes lab 1 fce_page-0007](https://user-images.githubusercontent.com/116774235/201507458-98fecaef-fdeb-478f-bbd6-92154a57e8f3.jpg)
-
-![imagenes lab 1 fce_page-0008](https://user-images.githubusercontent.com/116774235/201507461-94063341-a5e8-49dd-a546-84a62cf2d31d.jpg)
-
-![imagenes lab 1 fce_page-0009](https://user-images.githubusercontent.com/116774235/201507464-30f365f8-2a8d-40b8-bb4f-6f00cdb5a59f.jpg)
-
-![imagenes lab 1 fce_page-0010](https://user-images.githubusercontent.com/116774235/201507467-48fca1f5-3803-43c5-9cc3-bdfbbfaa8b28.jpg)
-
-![imagenes lab 1 fce_page-0011](https://user-images.githubusercontent.com/116774235/201507470-cc2f1e9b-3c3a-4f3e-a47a-4d9c9c1465f0.jpg)
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
-![imagenes lab 1 fce_page-0012](https://user-images.githubusercontent.com/116774235/201507500-e72ce66b-00e7-40be-ade5-b769c29a6b42.jpg)
+
 
 1.5.3. Verifique si se cumple la ley de KIRCCHHOFF de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
 
 Tabla 1.2. Verificación de la ley de KIRCHHOFF
 
-![imagenes lab 1 fce_page-0013](https://user-images.githubusercontent.com/116774235/201507544-b07eaf1e-43ea-4dc3-a945-4bc624a374b9.jpg)
+
 
 SI CUMPLE PUESTO QUE LA SUMATORIA DE VOLTAJE EN LAS RESISTENCIAS ES IGUAL AL VOLTAJE DE LA FUENTE
 
@@ -87,7 +73,7 @@ SI CUMPLE PUESTO QUE LA SUMATORIA DE VOLTAJE EN LAS RESISTENCIAS ES IGUAL AL VOL
 
 Tabla 1.3. Verificación de la ley de Corrientes de KIRCHHOFF
 
-![imagenes lab 1 fce_page-0014](https://user-images.githubusercontent.com/116774235/201507639-7bb81ea3-df95-4f94-ae34-222ce7db7517.jpg)
+
 
 SI SE CUMPLE PUESTO QUE LA SUMATORIA DE CORRIENTES EN LOS NODOS ES IGUAL A CERO
 
