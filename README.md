@@ -70,12 +70,14 @@ Figura 1.1. Circuito Resistivo Mixto
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
+![imagenes tablas lab fce_page-0001](https://user-images.githubusercontent.com/116774235/201822330-cb64a5ae-ed95-46a9-b858-a5e9b467ea41.jpg)
 
 
 1.5.3. Verifique si se cumple la ley de KIRCCHHOFF de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
 
 Tabla 1.2. Verificación de la ley de KIRCHHOFF
 
+![imagenes tablas lab fce_page-0002](https://user-images.githubusercontent.com/116774235/201822378-e8efd173-6687-4967-85de-478fab340788.jpg)
 
 
 SI CUMPLE PUESTO QUE LA SUMATORIA DE VOLTAJE EN LAS RESISTENCIAS ES IGUAL AL VOLTAJE DE LA FUENTE
@@ -84,6 +86,7 @@ SI CUMPLE PUESTO QUE LA SUMATORIA DE VOLTAJE EN LAS RESISTENCIAS ES IGUAL AL VOL
 
 Tabla 1.3. Verificación de la ley de Corrientes de KIRCHHOFF
 
+![imagenes tablas lab fce_page-0003](https://user-images.githubusercontent.com/116774235/201822405-f7291547-070e-4666-b966-891acbd2faec.jpg)
 
 
 SI SE CUMPLE PUESTO QUE LA SUMATORIA DE CORRIENTES EN LOS NODOS ES IGUAL A CERO
